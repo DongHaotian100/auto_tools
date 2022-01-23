@@ -1,0 +1,1457 @@
+Application	photocatalysis
+Application	water splitting
+Application	degradation
+Application	photodetector
+Application	sensor
+Application	photoluminescence
+Application	solar cells
+Application	sustainability of
+Application	waste water treatment
+Application	and antibacterial
+Application	heterogeneous photocatalysis
+Application	Visible-light-responsive
+Application	for phenol
+Application	effective degradation of
+Application	organic pollutants
+Application	and mineralization of
+Application	degraded in
+Application	and photocatalytic degradation of
+Application	photocatalyst graphitic carbon nitride
+Application	water purification
+Application	on photocatalytic degradation of
+Application	photocathode
+Application	industry
+Application	pollutant
+Application	the effective removal of
+Application	emissive
+Application	C3N4-CdS
+Application	ecosystem
+Application	Ultrasonic
+Application	photo-Fenton
+Application	under irradiation with
+Application	photodetectors
+Application	membrane fouling
+Application	environmental protection
+Application	water environment
+Application	deionization
+Application	drinking water
+Application	white light-emitting diodes
+Application	semiconducting materials
+Application	contaminant
+Application	by photocatalytic water splitting
+Application	energy-saving
+Application	(H2O2)
+Application	food safety
+Application	threat to human health
+Application	ecosystem.
+Application	the health
+Application	public health
+Application	for wastewater treatment
+Application	management.
+Application	and agricultural
+Application	human health.
+Application	contaminated water.
+Application	food safety.
+Application	life.
+Application	waste water.
+Application	body.
+Application	threat to
+Application	contamination has
+Application	issue
+Application	industries
+Application	the aquatic environment.
+Application	contaminated water
+Application	in environmental water
+Application	nonradical
+Application	environmental pollution
+Application	drinking water.
+Application	photo-electro-Fenton-like
+Application	antibiotic
+Application	AOP
+Application	sustainability.
+Application	threats to
+Application	the environment and human health.
+Application	ecological
+Application	viruses
+Application	heavy metals.
+Application	energy-efficient
+Application	cleanup.
+Application	and personal care products
+Application	the ecological
+Application	antibiotics
+Application	pollutants from water
+Application	reactive oxygen species
+Application	organisms.
+Application	energy source.
+Application	for treating
+Application	oxidation processes
+Application	water disinfection
+Application	Heterogeneous photocatalysis
+Application	nanostructured materials for
+Application	photocatalytic technology
+Application	Microbial
+Application	heterogeneous photocatalysts
+Application	via photocatalysis
+Application	clean energy.
+Application	Pharmaceuticals
+Application	to clean
+Application	an environmental
+Application	sustainable development of
+Application	environmental remediation
+Application	health
+Application	safety
+Application	diseases.
+Application	aquatic environment
+Application	renewable energy sources
+Application	renewable solar energy
+Application	for environmental
+Application	highly toxic
+Preparation_method	thermal polymerization
+Preparation_method	vapor deposition
+Preparation_method	electrophoresis
+Preparation_method	ultrasonication
+Preparation_method	electrodeposition
+Preparation_method	ionothermal
+Preparation_method	microwave-assisted
+Preparation_method	molten salts
+Preparation_method	solvothermal
+Preparation_method	hydrothermal
+Preparation_method	in-situ
+Preparation_method	sol-gel method
+Preparation_method	at high temperature
+Preparation_method	an ultrasound-assisted
+Preparation_method	anion exchange
+Preparation_method	Hummers
+Preparation_method	ultrasonic dispersion
+Preparation_method	two-step strategy
+Preparation_method	sonication
+Preparation_method	a simple in situ
+Preparation_method	hydrothermal synthesis
+Preparation_method	method by using
+Preparation_method	one-pot method
+Preparation_method	sonochemical approach
+Preparation_method	a single step
+Preparation_method	with urea and
+Preparation_method	molar ratios
+Preparation_method	nanosheets prepared by
+Preparation_method	(CS)
+Preparation_method	solid-phase
+Preparation_method	(MSPE)
+Preparation_method	(hereafter
+Preparation_method	two steps
+Preparation_method	two-step process
+Preparation_method	water-bath
+Preparation_method	metal salts
+Preparation_method	ultrasound-assisted
+Preparation_method	dip-coating
+Preparation_method	(CTAB)
+Preparation_method	a simple chemical
+Preparation_method	microwave irradiation
+Preparation_method	a thermal
+Preparation_method	micro-solid phase extraction
+Preparation_method	(ompg-C3N4)
+Preparation_method	Well-dispersed
+Preparation_method	heat treatment
+Preparation_method	nickel foam
+Preparation_method	formaldehyde-modified
+Preparation_method	chloride as
+Preparation_method	hydrothermal treatment
+Preparation_method	sol-gel method and
+Preparation_method	was successfully synthesized using
+Preparation_method	Fe3O4 nanoparticles
+Preparation_method	a facile template-free
+Preparation_method	reduction method
+Preparation_method	two-step process.
+Preparation_method	co-precipitation method
+Preparation_method	method using
+Preparation_method	and reproducible
+Preparation_method	synthesised via
+Preparation_method	solid phase
+Preparation_method	a high-temperature
+Preparation_method	synthetic method.
+Preparation_method	hydrothermal process
+Preparation_method	one-pot solvothermal method.
+Preparation_method	two-step method.
+Preparation_method	single step
+Preparation_method	hydrothermal reaction.
+Preparation_method	in situ precipitation method.
+Preparation_method	water bath
+Preparation_method	synthesized as
+Preparation_method	successfully fabricated via
+Preparation_method	and hydrothermal methods.
+Preparation_method	template free
+Preparation_method	treated by
+Preparation_method	an ultrasonic
+Preparation_method	surfactant.
+Preparation_method	approach to fabricate
+Preparation_method	polymerization of melamine
+Preparation_method	was synthesized successfully
+Preparation_method	in situ synthesis
+Preparation_method	in situ deposition of
+Preparation_method	polymerization method.
+Preparation_method	microwave irradiation.
+Preparation_method	ultrasound method.
+Preparation_method	a solid-phase
+Preparation_method	sacrificial template.
+Preparation_method	annealing process.
+Preparation_method	hydrothermal method
+Preparation_method	a facile precipitation method
+Preparation_method	deposition-precipitation
+Preparation_method	ultrasonic exfoliation.
+Preparation_method	molar ratios of
+Preparation_method	(TMP)
+Preparation_method	(PI)
+Preparation_method	hydrothermal method and
+Preparation_method	synthesized successfully
+Preparation_method	a facile impregnation method.
+Preparation_method	annealing process
+Preparation_method	a facile solvothermal method.
+Preparation_method	synthesized via
+Preparation_method	one-pot hydrothermal method.
+Preparation_method	synthesized in situ
+Preparation_method	precipitation method.
+Preparation_method	microwave hydrothermal method.
+Preparation_method	prepared by facile
+Preparation_method	procedure.
+Preparation_method	one-step method.
+Preparation_method	in situ hydrothermal method.
+Preparation_method	method combined with
+Preparation_method	deposition-precipitation method.
+Preparation_method	hydrothermal method.
+Preparation_method	wet chemistry
+Preparation_method	a solvothermal reaction
+Preparation_method	chemical reduction.
+Preparation_method	synthesized by
+Preparation_method	followed by
+Preparation_method	successfully fabricated through
+Preparation_method	a collection of
+Preparation_method	successfully fabricated by
+Preparation_method	successfully synthesized via
+Preparation_method	a hydrothermal method
+Preparation_method	reacting
+Preparation_method	filtering
+Preparation_method	dropwise
+Preparation_method	involves adding
+Preparation_method	washing and drying
+Preparation_method	dispersing
+Preparation_method	ultrasonically dispersing
+Preparation_method	centrifuging
+Preparation_method	comprises mixing
+Preparation_method	stirring
+Preparation_method	by grinding
+Preparation_method	calcining
+Preparation_method	washing
+Preparation_method	and adding
+Preparation_method	placing in
+Preparation_method	grinding
+Preparation_method	dissolving
+Precursor	melamine
+Precursor	dicyandiamide
+Precursor	thiourea
+Precursor	urea
+Precursor	supramolecular
+Precursor	melem
+Precursor	trithiocyanuric acid
+Precursor	ammonium thiocyanate
+Precursor	pentahydrate
+Precursor	ammonium
+Precursor	glyoxylic
+Precursor	chloride
+Precursor	Preparing composite
+Precursor	silver nitrate
+Precursor	molybdate
+Precursor	distilled water
+Precursor	centrifuging
+Precursor	cyanuric acid
+Precursor	metal salt
+Precursor	anhydrous
+Precursor	graphitic carbon nitride powder
+Precursor	cyanuric chloride
+Precursor	thioacetamide
+Precursor	zinc nitrate
+Precursor	tetrachloride
+Precursor	(DCDA)
+Precursor	(MA)
+Precursor	or melamine
+Precursor	the precursor
+Precursor	bismuth nitrate
+Precursor	calcining melamine
+Precursor	calcinating
+Precursor	guanidine
+Precursor	methylamine
+Precursor	in muffle furnace
+Precursor	ultrasonically dispersing
+Precursor	powdered
+Precursor	melamine and cyanuric acid
+Precursor	in deionized water
+Precursor	ethylene glycol
+Precursor	biodiesel
+Precursor	thiocyanate
+Precursor	(DMSO)
+Precursor	sodium sulfide
+Precursor	composite material comprises e.g.
+Precursor	cooling
+Precursor	sodium hydroxide
+Precursor	deionized water
+Precursor	oil
+Precursor	and nitrogen source
+Precursor	as solvent
+Precursor	salt
+Precursor	nitrate
+Precursor	dihydrate
+Precursor	pentoxide
+Precursor	glycerol
+Precursor	liquid
+Precursor	and ammonium
+Precursor	(U)
+Precursor	hydrochloric acid
+Precursor	urea into
+Precursor	organic solvent
+Precursor	titanium source
+Precursor	and graphitic carbon nitride
+Precursor	sewage treatment
+Precursor	starting materials
+Precursor	carbonate
+Precursor	ethanol solution
+Precursor	triphenylamine
+Precursor	lithium chloride
+Performance	μmol h-1
+Performance	mmol h-1
+Performance	at 420 nm)
+Performance	oxygen evolution rate
+Performance	This performance
+Performance	and a notable
+Performance	that of g-C3
+Performance	a highest
+Performance	a hydrogen evolution rate
+Performance	μmol g-1 h-1
+Performance	at 420
+Performance	μmol h-1)
+Performance	a superior visible-light
+Performance	the photocatalytic hydrogen evolution rate of
+Performance	eight times higher than
+Performance	external quantum efficiency of
+Performance	under simulated solar light irradiation
+Performance	higher than most
+Performance	11 times higher than
+Performance	a high apparent quantum yield of
+Performance	apparent quantum efficiency of
+Performance	μmol h(-1)
+Performance	photocatalytic hydrogen production rate
+Performance	QY
+Performance	30 times higher than
+Performance	the highest values for
+Performance	a turnover number of
+Performance	QD@g-C3N4
+Performance	12 times higher than
+Performance	87
+Performance	L-1 h(-1)
+Performance	g-1
+Performance	and an apparent quantum yield of
+Performance	μmol·g-1·h-1
+Performance	>420 nm)
+Performance	evolution can
+Performance	and achieves
+Performance	CNB
+Performance	evolution activities
+Performance	in 4 h
+Performance	g-1)
+Performance	a high apparent quantum efficiency
+Performance	mol h(-1)
+Performance	a high photocatalytic
+Performance	11 times
+Performance	H(2)evolution rate of
+Performance	photocurrent
+Performance	mA
+Performance	cm-2
+Performance	μA
+Performance	1.7 times higher than
+Performance	mu mol/g/h
+Performance	28.3
+Performance	10 times higher than
+Performance	mu mol g(-1)h(-1)
+Performance	8.7
+Performance	mu molg(-1)h(-1)
+Performance	mu molh(-1)
+Performance	71%
+Performance	3.2%
+Performance	2.9 times higher than
+Performance	much greater than
+Performance	7.5 times higher than
+Performance	mg(-1)
+Performance	5.9
+Performance	6 times
+Performance	mu mol.h(-1).g(-1)
+Performance	g(cat)(-1)
+Performance	(300
+Performance	at lambda = 420 nm.
+Performance	production rate reaches
+Performance	2.6%
+Performance	9 times
+Performance	mu mol h(-1))
+Performance	1.9 times higher than
+Performance	mu mol.g(-1).h(-1)
+Performance	mu mol.g(-1).h(-1))
+Performance	mu mol g(-1)
+Performance	degradation performance
+Performance	132
+Performance	3.0
+Performance	mu mol.h(-1)
+Performance	2.51
+Performance	3.6 times
+Performance	2.4 times higher than
+Performance	after 10 h
+Performance	time higher than
+Performance	8.6
+Performance	surpasses
+Performance	that of bare g-C3N4
+Performance	is significantly better than
+Performance	more than twice
+Performance	3.1 times higher than
+Performance	an apparent quantum efficiency
+Performance	H-2-production rate
+Performance	quantum efficiencies of
+Performance	mu mol/h)
+Performance	g-1).
+Performance	is 4 times higher than
+Performance	μmol/h
+Performance	3.3 times higher than
+Performance	mu mol g(-1))
+Performance	about 3.2
+Performance	3.4 times
+Performance	15 times
+Performance	3.7 times
+Performance	2.3 times
+Performance	apparent quantum yield of
+Performance	an apparent quantum efficiency of
+Performance	2-fold higher than
+Performance	2.2 times
+Performance	3.5 times higher than
+Performance	a quantum efficiency of
+Performance	at 500 nm.
+Performance	2.5 times higher than
+Performance	5.4 times higher than
+Performance	evolution rate
+Performance	three times higher than
+Performance	aqueous solution under visible light irradiation
+Performance	five times higher than
+Performance	1.8 times higher than
+Performance	an impressive
+Performance	hydrogen generation rate of
+Performance	3.7 times higher than
+Performance	(>420 nm)
+Performance	92.1%
+Performance	the photocurrent density of
+Performance	TNTs.
+Performance	6.7%
+Performance	production rate over
+Performance	4.2 times higher than
+Performance	a hydrogen evolution rate of
+Performance	mol g(-1)
+Performance	cm(-2))
+Performance	faradaic efficiency of
+Performance	2.2 times higher than
+Performance	h(-1))
+Performance	8 times
+Modification	doping
+Modification	copolymerization
+Modification	heterojunction
+Modification	Z-scheme
+Modification	photodeposition
+Modification	co-catalysts
+Modification	H-2-evolution cocatalyst
+Modification	the charge separation
+Modification	photocatalysts with high
+Modification	significantly boost
+Modification	nanoheterojunctions
+Modification	0D/3D
+Modification	metal phosphide
+Modification	the separation and transport
+Modification	novel dual
+Modification	an effective cocatalyst
+Modification	the charge separation and
+Modification	(Mo)
+Modification	interfacial charge transfer effect
+Modification	heterojunction:
+Modification	the transfer rate of
+Modification	step-like
+Modification	as electron mediators
+Modification	the light absorption range
+Modification	the interfaces between
+Modification	noble-metal free
+Modification	by adopting
+Modification	CoWO4
+Modification	Bi2O4/g-C3N4
+Modification	Z-scheme heterostructure
+Modification	co-loading of
+Modification	for enhanced photocatalytic hydrogen production
+Modification	the photocatalytic reaction process
+Modification	the electron mediator
+Modification	strongly coupled
+Modification	adopted to synthesize
+Modification	defect mediated
+Modification	the separation of charge carriers
+Modification	noble-metal-free
+Modification	the photo-generated charge carriers
+Modification	ultrathin nanosheet
+Modification	the separation of photogenerated charge carriers
+Modification	and coupling with
+Modification	a bridge for
+Modification	the separation of photogenerated carriers
+Modification	to advance
+Modification	the charge carrier separation
+Modification	onion-like carbon
+Modification	p-n heterojunctions
+Modification	In-situ synthesis of
+Modification	Pt-alternative
+Modification	the charge separation.
+Modification	the interfacial charge separation
+Modification	pairs
+Modification	the photo-generated charge carriers.
+Modification	construction of novel
+Modification	photogenerated charge separation
+Modification	heterointerfaces
+Modification	the separation of photogenerated electron-hole pairs
+Modification	nitrogen-doped graphene quantum dots
+Modification	the spatial charge separation
+Modification	nanocarbon materials
+Modification	the recombination of electrons and holes
+Modification	cocatalyst with
+Modification	the charge carrier separation.
+Modification	the photogenerated carriers
+Modification	and active sites
+Modification	the separation efficiency of photogenerated carriers
+Modification	effectively promote
+Modification	Sm
+Modification	theoretical basis for
+Modification	ternary photocatalyst with
+Modification	the recombination of photoinduced electron-hole pairs.
+Modification	Z-scheme heterostructure.
+Modification	Step-scheme
+Modification	heterojunction interfaces
+Modification	neoteric
+Modification	SPR-promoted
+Modification	to significantly improve
+Modification	Co9S8/g-C3N4
+Modification	Ag could
+Modification	H2O/g-C3N4
+Modification	the surface plasmon resonance of
+Modification	Z-scheme system with
+Modification	CoS2
+Modification	photo-induced charge carriers
+Modification	electron sink
+Modification	restoration.
+Modification	design and application of
+Modification	more surface active sites
+Modification	(S-scheme)
+Modification	the charge separation during
+Modification	ultrasonic-assisted
+Modification	a stable and
+Modification	the separation efficiency of photogenerated charge carriers
+Modification	the electron-hole separation.
+Modification	the light absorption
+Modification	plasmonic
+Modification	dispersion
+Modification	WO3 nanoplates
+Modification	high-performance
+Modification	heterojunction photocatalyst
+Modification	photoreduction
+Modification	In2Se3
+Modification	photogenerated electrons and holes.
+Modification	Ni-Cu
+Modification	synergistically
+Modification	interfacial effect
+Photoresponse_range	wavelength
+Photoresponse_range	wavelengths
+Photoresponse_range	photon
+Photoresponse_range	photons
+Photoresponse_range	emitted
+Photoresponse_range	frequencies
+Photoresponse_range	transmittance
+Photoresponse_range	emitting
+Photoresponse_range	excitation
+Photoresponse_range	monochromatic
+Photoresponse_range	450 nm
+Photoresponse_range	quantum efficiencies of
+Photoresponse_range	reflectance
+Photoresponse_range	attenuation
+Photoresponse_range	λ =
+Photoresponse_range	490
+Photoresponse_range	nanoseconds
+Photoresponse_range	white light-emitting diode
+Photoresponse_range	emissive
+Photoresponse_range	ultraviolet
+Photoresponse_range	ns
+Photoresponse_range	redshift
+Photoresponse_range	photonic
+Photoresponse_range	backscattering
+Photoresponse_range	optically
+Photoresponse_range	wavelengths.
+Photoresponse_range	(RL
+Photoresponse_range	the emission of
+Photoresponse_range	signal-to-noise
+Photoresponse_range	intensities
+Photoresponse_range	chromophore
+Photoresponse_range	isotropic
+Photoresponse_range	output power
+Photoresponse_range	500 nm)
+Photoresponse_range	absorptivity
+Photoresponse_range	phosphor
+Photoresponse_range	532 nm
+Photoresponse_range	diffraction
+Photoresponse_range	radiation
+Photoresponse_range	ns)
+Photoresponse_range	ionization
+Photoresponse_range	bandwidth
+Photoresponse_range	luminescence
+Photoresponse_range	phosphors
+Photoresponse_range	ionized
+Photoresponse_range	frequency
+Photoresponse_range	electromagnetic
+Photoresponse_range	wavelength of
+Photoresponse_range	longer than
+Photoresponse_range	emit
+Photoresponse_range	absorbance
+Photoresponse_range	long-wavelength
+Photoresponse_range	window
+Photoresponse_range	590
+Photoresponse_range	sensitizer
+Photoresponse_range	decays
+Photoresponse_range	radiative
+Photoresponse_range	dielectric
+Photoresponse_range	quantum yield
+Photoresponse_range	time-domain
+Photoresponse_range	current-voltage
+Photoresponse_range	excitations
+Photoresponse_range	aperture
+Photoresponse_range	365 nm
+Photoresponse_range	bandwidth of
+Photoresponse_range	spin-orbit
+Photoresponse_range	quadrupole
+Photoresponse_range	fluorophore
+Photoresponse_range	resonances
+Photoresponse_range	RL
+Photoresponse_range	(RL)
+Photoresponse_range	excitation.
+Photoresponse_range	photolysis
+Photoresponse_range	the blue fluorescence
+Photoresponse_range	dipole
+Photoresponse_range	the excitation of
+Photoresponse_range	laser
+Photoresponse_range	ER
+Photoresponse_range	vibrational
+Crystalline_structure	crystalline
+Crystalline_structure	amorphous
+Crystalline_structure	space group
+Crystalline_structure	lattice parameters
+Crystalline_structure	tetragonal
+Crystalline_structure	beta-C3N4
+Crystalline_structure	monoclinic
+Crystalline_structure	electron diffraction
+Crystalline_structure	Angstrom.
+Crystalline_structure	alpha-C3N4
+Crystalline_structure	a cubic
+Crystalline_structure	body-centered
+Crystalline_structure	crystallites
+Crystalline_structure	polycrystalline
+Crystalline_structure	and alpha-C3N4
+Crystalline_structure	the lattice parameters
+Crystalline_structure	cubic
+Crystalline_structure	the theoretically predicted
+Crystalline_structure	diamond-like
+Crystalline_structure	crystalline phase
+Crystalline_structure	of alpha-C3N4
+Crystalline_structure	orthorhombic
+Crystalline_structure	Angstrom
+Crystalline_structure	phases.
+Crystalline_structure	grains
+Crystalline_structure	crystallizes
+Crystalline_structure	single crystal
+Crystalline_structure	phase
+Crystalline_structure	composed of alpha-C3N4
+Crystalline_structure	degreesC
+Crystalline_structure	β-C3N4
+Crystalline_structure	metastable
+Crystalline_structure	the high-pressure
+Crystalline_structure	wurtzite
+Crystalline_structure	crystal structure
+Crystalline_structure	-C3N4
+Crystalline_structure	phases
+Crystalline_structure	hexagonal
+Crystalline_structure	tetrahedral
+Crystalline_structure	allotrope
+Crystalline_structure	isostructural
+Crystalline_structure	carbon-rich
+Crystalline_structure	C3N4 nanostructures
+Crystalline_structure	trigonal
+Crystalline_structure	topology.
+Crystalline_structure	nitrogen-rich carbon nitride
+Crystalline_structure	single-crystal
+Crystalline_structure	phase transition
+Crystalline_structure	beta-C3N4.
+Crystalline_structure	SiC
+Crystalline_structure	the hexagonal
+Crystalline_structure	indexed as
+Crystalline_structure	and atomic
+Crystalline_structure	amorphous phase
+Crystalline_structure	and c =
+Crystalline_structure	Vickers
+Crystalline_structure	(C2/c
+Crystalline_structure	the crystals
+Crystalline_structure	lattice constants
+Crystalline_structure	diffraction data
+Crystalline_structure	diffraction peaks
+Crystalline_structure	beta
+Crystalline_structure	ab initio calculations
+Crystalline_structure	transmission electron diffraction
+Crystalline_structure	symmetry.
+Crystalline_structure	crystalline beta-C3N4
+Crystalline_structure	electron diffraction patterns
+Crystalline_structure	crystals
+Crystalline_structure	covalent bond in
+Crystalline_structure	a hexagonal
+Crystalline_structure	Raman spectrum
+Crystalline_structure	the beta-C3N4
+Crystalline_structure	carbon nitride phase
+Crystalline_structure	amorphous.
+Crystalline_structure	sp(3)-hybridized
+Crystalline_structure	electron diffraction.
+Crystalline_structure	a crystalline
+Crystalline_structure	sp(3)-bonded carbon
+Crystalline_structure	of alpha-
+Crystalline_structure	electron energy-loss spectroscopy
+Crystalline_structure	heptazine-based g-C3N4
+Crystalline_structure	crystallites.
+Crystalline_structure	sp(3)C-N
+Morphology	bulk
+Morphology	nanosheet
+Morphology	amorphous
+Morphology	wall thickness
+Morphology	thinner
+Morphology	thin
+Morphology	thicknesses
+Morphology	textured
+Morphology	Ultra-thin
+Morphology	flaky
+Morphology	ultra-thin
+Morphology	5 nm)
+Morphology	single layer
+Morphology	ultrathin
+Morphology	fluffy
+Morphology	laminated
+Morphology	nanoplates
+Morphology	ultra-long
+Morphology	highly ordered
+Morphology	layered structure
+Morphology	hollow spheres
+Morphology	and rutile
+Morphology	coating
+Morphology	by anchoring
+Morphology	exfoliated nanosheets
+Morphology	sulfur-doped
+Morphology	phosphorus-doped
+Morphology	and amorphous
+Morphology	into nanosheets
+Morphology	the bulk
+Morphology	oxygen-doped
+Morphology	exfoliated
+Morphology	High-quality
+Morphology	layered
+Morphology	exfoliation of
+Morphology	a lamellar structure
+Morphology	the crystalline
+Morphology	honeycomb-like
+Morphology	porous
+Morphology	spongy
+Morphology	thickness
+Morphology	(101)
+Morphology	the interfacial interaction between
+Morphology	higher specific surface area
+Morphology	the flat
+Morphology	sponge-like
+Morphology	vertically
+Morphology	flakes
+Morphology	large surface area
+Morphology	high specific surface areas
+Morphology	crumpled
+Morphology	hollow microspheres
+Morphology	quantum effect
+Morphology	nanosheet structure
+Morphology	lamellas
+Morphology	tubular structure
+Morphology	the interface contact between
+Morphology	exfoliating
+Morphology	large surface areas
+Morphology	nanosheets possess
+Morphology	wrinkled
+Morphology	diffusion path
+Morphology	The growth of
+Morphology	grow on
+Morphology	the internal
+Morphology	aspect ratio
+Morphology	the hollow
+Morphology	The 1D
+Morphology	nanostructures.
+Morphology	protective layer
+Morphology	heterojunction nanosheets
+Morphology	the large surface area of
+Morphology	and enlarged specific surface area
+Morphology	(thickness:
+Morphology	wettability of
+Morphology	flake
+Morphology	m(2)/g)
+Morphology	larger specific surface area
+Morphology	combination with
+Morphology	uncoated
+Morphology	assembled by
+Morphology	high surface areas
+Morphology	thick
+Morphology	nanosheets.
+Morphology	layered structure.
+Morphology	number of active sites
+Morphology	assemblies.
+Morphology	flakes.
+Morphology	nanostructure with
+Morphology	and high specific surface area.
+Morphology	high porosity
+Morphology	enhanced specific surface area
+Morphology	its poor
+Morphology	exposed active sites
+Morphology	double-shell
+Morphology	size-tunable
+Morphology	and high specific surface area
+Morphology	three dimensional
+Morphology	hierarchical porous structure
+Morphology	uniformly distributed
+Morphology	hierarchical pores
+Morphology	The hierarchical
+Morphology	macropores
+Morphology	large specific surface area
+Morphology	carbon nanospheres
+Morphology	an ultrathin
+Morphology	unique structure
+Morphology	mesopores
+Morphology	nanosheets
+Morphology	grain size
+Morphology	nanowires
+Morphology	ultrathin 2D
+Morphology	two-dimension
+System	photoelectrochemical
+System	PEC
+System	photocatalytic
+System	photocatalyst
+System	film
+System	photoanode
+System	photoelectrode
+System	particle
+System	powder
+System	suspension
+System	photoanode for
+System	semiconductor photocatalyst
+System	reactor
+System	photocatalytic film
+System	photoactivity of
+System	nanocomposite photocatalyst
+System	was developed and
+System	Z-type
+System	electrospinning
+System	films
+System	fixed-bed
+System	photo-catalyst
+System	bulk-like g-C3N4
+System	thin film
+System	prepared nanocomposite
+System	nanorod
+System	additive.
+System	coral-like
+System	and performing
+System	(CNx)
+System	ion plating
+System	fluorine-doped tin oxide
+System	polyvinyl alcohol
+System	facile method
+System	was produced by
+System	synthesized photocatalyst
+System	spectroscopy and photoelectrochemical
+System	Template-free
+System	solvothermal treatment.
+System	sol-gel
+System	KNbO3/g-C3N4
+System	prepared samples
+System	as cocatalyst
+System	glass substrate
+System	PC-FTO
+System	was synthesized using
+System	for efficient degradation of
+System	the mixture of urea and
+System	(PVDF)
+System	in aqueous
+System	production under visible light irradiation
+System	first prepared by
+System	graphitic carbon nitride
+System	silver/silver
+System	ZnGaNO
+System	(PFC)
+System	photoelectrochemical performance
+System	Systematic
+System	Protonated g-C3N4
+System	CNT/g-C3N4
+System	CoTiO3/g-C3N4
+System	(Ag/g-C3N4)
+System	(PC)
+System	(ALD)
+System	(g-C3N4/TiO2)
+System	silicon carbide
+System	nanotube array
+System	(TNTAs)
+System	(NR)
+System	C3N4-WO3
+System	g-C3N4@ZnO
+Band_structure	conduction band
+Band_structure	valence band
+Band_structure	work functions
+Band_structure	(VB)
+Band_structure	(VBM)
+Band_structure	(CB)
+Band_structure	the conduction band
+Band_structure	VB
+Band_structure	(CBM)
+Band_structure	the electrons and holes
+Band_structure	the valence band maximum
+Band_structure	the conduction band minimum
+Band_structure	CB
+Band_structure	holes and electrons
+Band_structure	Bader
+Band_structure	directions
+Band_structure	relaxation of
+Band_structure	left
+Band_structure	excitons
+Band_structure	oxidation capability
+Band_structure	that the electrons
+Band_structure	the valence band
+Band_structure	valence band maximum
+Band_structure	the photo-excited
+Band_structure	states
+Band_structure	the electrons in
+Band_structure	that the photoexcited electrons
+Band_structure	the positions of
+Band_structure	to surface
+Band_structure	excited electrons
+Band_structure	conduction band minimum
+Band_structure	negatively shifted
+Band_structure	while holes
+Band_structure	conduction-band
+Band_structure	band offset
+Band_structure	potential difference between
+Band_structure	CBM
+Band_structure	band edge positions
+Band_structure	the photogenerated electrons in
+Band_structure	and prolonging
+Band_structure	solid-solid
+Band_structure	redox potentials
+Band_structure	carrier separation
+Band_structure	the prolonged
+Band_structure	the electron-hole separation
+Band_structure	redox potential
+Band_structure	band position
+Band_structure	the electron and hole
+Band_structure	band alignment
+Band_structure	exciton dissociation
+Band_structure	energy band gap
+Band_structure	band structures
+Band_structure	the separation of electrons and holes
+Band_structure	charge density
+Band_structure	excited electrons from
+Band_structure	photoinduced electrons and holes
+Band_structure	the charges
+Band_structure	the bandgap.
+Band_structure	the photoinduced holes
+Band_structure	the number and
+Band_structure	to participate in
+Band_structure	oxidation ability of
+Band_structure	the charge separation during
+Band_structure	the conduction-band
+Band_structure	charge redistribution
+Band_structure	reducibility of electrons in
+Band_structure	transfer of photogenerated carriers
+Band_structure	the electron-hole separation.
+Band_structure	excitons.
+Band_structure	the tubular structure of
+Band_structure	orbitals.
+Band_structure	the recombination efficiency of
+Band_structure	the photogenerated electrons and holes
+Band_structure	interband
+Band_structure	strong redox ability of
+Band_structure	the electrons from
+Band_structure	oxidation capacity
+Band_structure	the interface
+Band_structure	band
+Band_structure	e(-)/h(+)
+Band_structure	the hot
+Band_structure	the lifetime of
+Band_structure	the shorter
+Band_structure	hot electrons
+Band_structure	conductive band
+Band_structure	the valence band edge
+Band_structure	defect levels
+Band_structure	band alignment.
+Band_structure	exciton dissociation.
+Band_structure	direction
+Band_structure	photoinduced holes
+Band_structure	((OH)-O-center dot).
+Band_structure	holes.
+Band_structure	redox ability of
+Band_structure	the vertical
+Band_structure	shallow
+Band_structure	VBM
+Band_structure	the transport of
+Band_structure	band edge potentials
+Band_structure	move
+Band_structure	carbon vacancies.
+Band_structure	the forbidden
+Band_structure	electrons
+Band_structure	charge separation and transport
+Band_structure	Coulomb
+Band_structure	electrons-holes separation
+Band_structure	Z-scheme
+Band_structure	the separation of electrons and holes.
+Band_structure	segregation of
+Band_structure	the spatial separation of
+Band_structure	the transfer of
+Band_structure	electron trapping
+Band_structure	electron and hole
+Band_structure	the electron-hole pairs
+Band_structure	migrate to
+Band_structure	electrons and holes
+Band_structure	the band structure of g-C3N4
+Band_structure	photogenerated charge carriers
+Band_structure	the h(+)
+Band_structure	and holes
+Band_structure	at the heterojunction interfaces
+Band_structure	valence bands
+Band_structure	conduction band of
+Band_structure	localization
+Band_structure	the migration distance of
+Band_structure	photo-induced electrons
+Band_structure	pi bonds
+Band_structure	(IEF)
+Band_structure	the photo-induced
+Band_structure	the valence band of
+Band_structure	coupling effect
+Band_structure	the holes in
+Band_structure	(h(+)).
+Band_structure	at the interface
+Band_structure	channel.
+Band_structure	the electrons
+Band_structure	C-Dots
+Band_structure	the light response range
+Band_structure	impurity level
+Band_structure	carries.
+Band_structure	electron lifetime
+Band_structure	interfacial charge transfer
+Band_structure	the surface adsorbed
+Band_structure	BOC;
+Group/Hybridization	amino
+Group/Hybridization	hydroxyl
+Group/Hybridization	sp2
+Group/Hybridization	sp3
+Group/Hybridization	carbonyl
+Group/Hybridization	thiols
+Group/Hybridization	aspartate
+Group/Hybridization	carboxyl
+Group/Hybridization	acyl
+Group/Hybridization	dimerization
+Group/Hybridization	lysine
+Group/Hybridization	aliphatic
+Group/Hybridization	electrophilic
+Group/Hybridization	nucleophilic
+Group/Hybridization	histidine
+Group/Hybridization	sulfhydryl
+Group/Hybridization	long-chain
+Group/Hybridization	aspartic
+Group/Hybridization	azide
+Group/Hybridization	fatty
+Group/Hybridization	alkyl
+Group/Hybridization	alkylated
+Group/Hybridization	substituent
+Group/Hybridization	thiol
+Group/Hybridization	adducts
+Group/Hybridization	heme
+Group/Hybridization	galactose
+Group/Hybridization	asparagine
+Group/Hybridization	valine
+Group/Hybridization	alanine
+Group/Hybridization	hydroxylamine
+Group/Hybridization	adenine
+Group/Hybridization	threonine
+Group/Hybridization	cystine
+Group/Hybridization	nitrile
+Group/Hybridization	aldehyde
+Group/Hybridization	acetyl
+Group/Hybridization	pyrimidine
+Group/Hybridization	proline
+Group/Hybridization	isoleucine
+Group/Hybridization	alkylation
+Group/Hybridization	heterocycle
+Group/Hybridization	uncharged
+Group/Hybridization	lipids
+Group/Hybridization	glutamine
+Group/Hybridization	decarboxylation
+Group/Hybridization	cysteines
+Group/Hybridization	thioether
+Group/Hybridization	leucine
+Group/Hybridization	phospholipids
+Group/Hybridization	alkene
+Group/Hybridization	tetramer
+Group/Hybridization	isomer
+Group/Hybridization	glycosylated
+Group/Hybridization	tetramers
+Group/Hybridization	carboxylic
+Group/Hybridization	most probably
+Group/Hybridization	hydroxylation
+Group/Hybridization	enzyme activity
+Group/Hybridization	imine
+Group/Hybridization	phenyl
+Group/Hybridization	catalyzes
+Group/Hybridization	hydrolase
+Group/Hybridization	arginine
+Group/Hybridization	ligase
+Group/Hybridization	thioredoxin
+Group/Hybridization	epoxide
+Group/Hybridization	phosphorylase
+Group/Hybridization	ubiquitin
+Group/Hybridization	coenzyme
+Group/Hybridization	tetrameric
+Group/Hybridization	glycosylation
+Group/Hybridization	ornithine
+Group/Hybridization	acetylated
+Group/Hybridization	cofactor
+Group/Hybridization	nucleoside
+Group/Hybridization	dehydrogenases
+Group/Hybridization	synthetase
+Group/Hybridization	dimeric
+Group/Hybridization	mannose
+Group/Hybridization	dehydrogenase
+Group/Hybridization	serine
+Group/Hybridization	quinone
+Group/Hybridization	transferase
+Group/Hybridization	phosphorylates
+Group/Hybridization	aminotransferase
+Group/Hybridization	sorbitol
+Group/Hybridization	ferredoxin
+Group/Hybridization	trimeric
+Group/Hybridization	proteinases
+Group/Hybridization	dimer
+Group/Hybridization	reductase
+Group/Hybridization	synthase
+Group/Hybridization	esterified
+Group/Hybridization	biotin
+Group/Hybridization	microsomal
+Group/Hybridization	monomeric
+Group/Hybridization	reversibly
+Group/Hybridization	reductases
+Group/Hybridization	biosynthesis
+Group/Hybridization	posttranslational
+Group/Hybridization	glycine
+Group/Hybridization	peroxidase
+Group/Hybridization	amino-terminal
+Group/Hybridization	hydrolyzed
+Group/Hybridization	proteases
+Group/Hybridization	adenylate
+Group/Hybridization	membrane-bound
+Group/Hybridization	anhydride
+Group/Hybridization	thymidine
+Group/Hybridization	oligosaccharide
+Group/Hybridization	tryptophan
+Group/Hybridization	nucleotide
+Group/Hybridization	amino-acid
+Group/Hybridization	trimers
+Group/Hybridization	methionine
+Group/Hybridization	allosteric
+Group/Hybridization	alkane
+Group/Hybridization	carnitine
+Group/Hybridization	tyrosine
+Group/Hybridization	lyase
+Group/Hybridization	enzymatically
+Group/Hybridization	amide
+Group/Hybridization	benzyl
+Group/Hybridization	acyltransferase
+Group/Hybridization	cytosolic
+Group/Hybridization	dihydrofolate
+Group/Hybridization	convertase
+Group/Hybridization	endopeptidase
+Group/Hybridization	phosphodiesterase
+Group/Hybridization	cytochrome
+Group/Hybridization	monooxygenase
+Group/Hybridization	histones
+Group/Hybridization	oligosaccharides
+Group/Hybridization	xylose
+Group/Hybridization	cyclase
+Group/Hybridization	kinases
+Group/Hybridization	nucleosides
+Group/Hybridization	endonuclease
+Group/Hybridization	chymotrypsin
+Group/Hybridization	cytosol
+Group/Hybridization	calmodulin
+Group/Hybridization	phosphoprotein
+Group/Hybridization	adenylyl
+Group/Hybridization	enolase
+Group/Hybridization	phospholipase
+Group/Hybridization	cholinesterase
+Group/Hybridization	isomerase
+Group/Hybridization	oxidase
+Group/Hybridization	integrin
+Group/Hybridization	disulphide
+Group/Hybridization	isoenzyme
+Group/Hybridization	phospholipid
+Group/Hybridization	plasminogen
+Group/Hybridization	triphosphate
+Group/Hybridization	annexin
+Group/Hybridization	aldolase
+Group/Hybridization	ribonuclease
+Group/Hybridization	pyrophosphate
+Group/Hybridization	isozyme
+Group/Hybridization	cysteine
+Group/Hybridization	histone
+Group/Hybridization	lipoprotein
+Group/Hybridization	cytoplasmic
+Group/Hybridization	actin
+Group/Hybridization	sulfatide
+Group/Hybridization	cathepsin
+Group/Hybridization	lipase
+Characterization_method	XRD
+Characterization_method	XPS
+Characterization_method	FTIR
+Characterization_method	EPR
+Characterization_method	NMR
+Characterization_method	Raman
+Characterization_method	PEC
+Characterization_method	AQY
+Characterization_method	EIS
+Characterization_method	PL
+Characterization_method	SEM
+Characterization_method	TEM
+Characterization_method	TG
+Characterization_method	UV-DRS
+Characterization_method	UV-vis
+Characterization_method	Mott-Schottky
+Characterization_method	Tauc
+Characterization_method	IPCE
+Characterization_method	EELS
+Characterization_method	mapping
+Characterization_method	TGA
+Characterization_method	elemental mapping
+Characterization_method	element mapping
+Characterization_method	DRS
+Characterization_method	EDAX
+Characterization_method	EDS
+Characterization_method	FT-IR
+Characterization_method	Raman spectra
+Characterization_method	CV
+Characterization_method	EDX
+Characterization_method	open circuit potential
+Characterization_method	TRPL
+Characterization_method	VOx
+Characterization_method	VSM
+Characterization_method	C(1s)
+Characterization_method	(X-ray
+Characterization_method	and elemental mapping
+Characterization_method	(Transmission
+Characterization_method	UV-visible
+Characterization_method	FESEM
+Characterization_method	plots
+Characterization_method	characterization studies
+Characterization_method	I-t
+Characterization_method	utilized to characterize
+Characterization_method	(LSV)
+Characterization_method	cycle experiments
+Characterization_method	electrochemical impedance spectra
+Characterization_method	UV-visible spectroscopy
+Characterization_method	curve
+Characterization_method	data obtained by
+Characterization_method	Nyquist
+Characterization_method	MAS
+Characterization_method	linear sweep voltammetry
+Characterization_method	techniques
+Characterization_method	N-2-adsorption
+Characterization_method	UV-vis.
+Characterization_method	TGA.
+Characterization_method	Raman spectra.
+Characterization_method	employed to confirm
+Characterization_method	the crystal phase
+Characterization_method	XRD.
+Characterization_method	electrochemical methods
+Characterization_method	ICP-AES
+Characterization_method	ICP.
+Characterization_method	TG-DTA
+Characterization_method	UV-vis diffuse reflectance spectra
+Characterization_method	Impedance
+Characterization_method	absorbance
+Characterization_method	SEM-EDS
+Characterization_method	physisorption
+Characterization_method	plots.
+Characterization_method	nitrogen adsorption
+Characterization_method	analysis.
+Characterization_method	UV-DRS.
+Characterization_method	PL.
+Characterization_method	UV-Vis
+Characterization_method	emission spectroscopy
+Characterization_method	and photocurrent-time
+Characterization_method	LSV
+Characterization_method	thermal analysis.
+Characterization_method	HRTEM
+Characterization_method	BET.
+Characterization_method	sorption
+Characterization_method	adsorption-desorption isotherm
+Characterization_method	AFM
+Characterization_method	UV-visible diffuse reflection spectroscopy
+Characterization_method	analyzer
+Characterization_method	FE-SEM
+Characterization_method	comprehensively characterized by
+Characterization_method	and electrochemical impedance spectroscopy
+Characterization_method	DRS.
+Characterization_method	UV-vis spectra
+Characterization_method	SEM-EDX
+Characterization_method	kinetic studies
+Characterization_method	photoelectrochemical measurements
+Characterization_method	adsorption-desorption isotherms
+Characterization_method	BET
+Characterization_method	spectroscopies
+Characterization_method	scattering
+Characterization_method	IR
+Characterization_method	electron spin resonance spectroscopy
+Characterization_method	HR-TEM
+Characterization_method	FT-IR.
+Characterization_method	absorption spectrum
+Characterization_method	photocurrent measurements.
+Characterization_method	XPS.
+Characterization_method	transform-infrared spectroscopy
+Characterization_method	diffuse reflection spectroscopy.
+Characterization_method	N-2-physisorption
+Characterization_method	fluorescence lifetime
+Characterization_method	physical adsorption
+Characterization_method	electrochemical measurements.
+Characterization_method	adsorption-desorption analysis.
+Characterization_method	thermal analysis
+Characterization_method	(XRD
+Characterization_method	adsorption-desorption.
+Theoretical_calculation	DFT
+Theoretical_calculation	atom
+Theoretical_calculation	band
+Theoretical_calculation	calculations indicate
+Theoretical_calculation	(DOS)
+Theoretical_calculation	Computational
+Theoretical_calculation	the aromatic ring
+Theoretical_calculation	calculations show
+Theoretical_calculation	calculation
+Theoretical_calculation	density functional theory calculations
+Theoretical_calculation	calculations indicated
+Theoretical_calculation	calculations revealed
+Theoretical_calculation	calculations
+Theoretical_calculation	that the adsorption energy of
+Theoretical_calculation	investigated by density functional theory
+Theoretical_calculation	First-Principles
+Theoretical_calculation	First-principle
+Theoretical_calculation	computation
+Theoretical_calculation	Atoms
+Theoretical_calculation	B3LYP
+Theoretical_calculation	(PDOS)
+Theoretical_calculation	modeling of
+Theoretical_calculation	N-2C
+Theoretical_calculation	based on density functional theory
+Theoretical_calculation	Theoretical
+Theoretical_calculation	C6N
+Theoretical_calculation	employed to calculate
+Theoretical_calculation	calculations further
+Theoretical_calculation	molecular orbital
+Theoretical_calculation	two-coordinated
+Theoretical_calculation	spin-polarized
+Theoretical_calculation	reaction path
+Theoretical_calculation	donation
+Theoretical_calculation	the first-principles
+Theoretical_calculation	calculations showed
+Theoretical_calculation	calculations based on density functional theory
+Theoretical_calculation	electronic structure of
+Theoretical_calculation	simulations
+Theoretical_calculation	the ground-state
+Theoretical_calculation	the center of
+Theoretical_calculation	electronic states
+Theoretical_calculation	quantum chemical
+Theoretical_calculation	the adsorption energy of
+Theoretical_calculation	doping sites
+Theoretical_calculation	C-2
+Theoretical_calculation	Theory
+Theoretical_calculation	functional theory calculations
+Theoretical_calculation	Valence
+Theoretical_calculation	the highest occupied molecular orbital
+Theoretical_calculation	computations.
+Theoretical_calculation	(DFT)
+Theoretical_calculation	the active sites for
+Theoretical_calculation	calculations demonstrate
+Theoretical_calculation	5d
+Theoretical_calculation	C6N8
+Theoretical_calculation	computations
+Theoretical_calculation	the single-atom
+Theoretical_calculation	atom.
+Theoretical_calculation	First-principles
+Theoretical_calculation	SO
+Theoretical_calculation	and density functional theory
+Theoretical_calculation	simulations show
+Theoretical_calculation	adsorption on
+Theoretical_calculation	using density functional theory
+Theoretical_calculation	boron
+Theoretical_calculation	calculations.
+Theoretical_calculation	first-principles study
+Theoretical_calculation	Density
+Theoretical_calculation	the geometry
+Theoretical_calculation	simulations.
+Theoretical_calculation	calculation.
+Theoretical_calculation	(MD)
+Theoretical_calculation	COOH*
+Theoretical_calculation	CH3OH.
+Theoretical_calculation	(DFT).
+Theoretical_calculation	SO2
+Theoretical_calculation	the electronic and magnetic properties of
+Theoretical_calculation	investigated by density functional theory.
+Theoretical_calculation	good agreement
+Theoretical_calculation	adsorption energy
+Theoretical_calculation	calculations reveal
+Theoretical_calculation	Eley-Rideal
+Theoretical_calculation	molecular dynamics
+Theoretical_calculation	transition metal atoms
+Theoretical_calculation	intermediate
+Theoretical_calculation	density of states
+Theoretical_calculation	also demonstrate
+Theoretical_calculation	AgPd/g-C3
+Theoretical_calculation	Mn-N
+Theoretical_calculation	adsorption energy of
+Theoretical_calculation	difference
+Theoretical_calculation	first-principle
+Theoretical_calculation	AgPd/g-C3N4
+Theoretical_calculation	calculations suggest
+Theoretical_calculation	simulation
+Theoretical_calculation	different degrees
+Theoretical_calculation	first-principles simulations
+Theoretical_calculation	first-principles
+Theoretical_calculation	the electronic and optical properties of
+Theoretical_calculation	TMC6N7
+Theoretical_calculation	3d
+Theoretical_calculation	density functional theory.
+Theoretical_calculation	styrene molecule
+Theoretical_calculation	(CO
+Theoretical_calculation	the mechanism underlying
+Theoretical_calculation	density functional theory
+Theoretical_calculation	dopants
+Theoretical_calculation	free energies
+Theoretical_calculation	adsorption
+Theoretical_calculation	rate-determining step of
+Theoretical_calculation	initio calculations
+Theoretical_calculation	half-metallic
+Theoretical_calculation	Monte
+Theoretical_calculation	oxygen atom
+Theoretical_calculation	ground state.
+Theoretical_calculation	Fe-doping
+Theoretical_calculation	single-atom catalysts
+Theoretical_calculation	Ab
+Theoretical_calculation	the density functional theory
+Theoretical_calculation	density functional calculations.
