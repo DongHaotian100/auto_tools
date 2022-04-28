@@ -1,7 +1,7 @@
 # -*- coding = utf-8 -*-
 # @Time : 2021/4/13 13:16
 # @Author : D-code
-# @File : auto_time_counter.py
+# @File : winCounter.py
 # @Software : PyCharm
 # 计时器，可以在结束前某时刻提醒剩余时间，可以在结束时播报提示
 import time
