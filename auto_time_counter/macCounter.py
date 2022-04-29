@@ -42,7 +42,8 @@ def seconds_last():
 # 提问开始计时
 def qa_begin():
     engine = pyttsx3.init()
-    engine.say('%s 分钟提问开始' % QA_TIME)
+    engine.say('提问开始')
+    # engine.say('%s 分钟提问开始' % QA_TIME)
     engine.runAndWait()
     time.sleep(QA_TIME*60)
 
